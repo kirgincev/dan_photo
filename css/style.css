@@ -4237,7 +4237,7 @@ ul {
   }
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1440px) {
+@media only screen and (min-width: 1201px) and (max-width: 1440px) {
   /* line 122, ../../01 cl html template/187 Shotgear Photography/187 Shotgear Photography Html/sass/_footer.scss */
   .footer-area .footer_3 .footer_img .single_footer_img {
     width: 20%;
@@ -6346,7 +6346,15 @@ h6 {
   }
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1440px) {
+@media only screen and (min-width: 2041px) and (max-width: 6441px ) {
+.banner_part {
+  background-position: inherit;
+  }
+
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1440px) {
   /* line 122, ../../01 cl html template/187 Shotgear Photography/187 Shotgear Photography Html/sass/_footer.scss */
   .footer-area .footer_3 .footer_img .single_footer_img {
     width: 20%;
